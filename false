@@ -1,0 +1,2 @@
+      invoke  active_record
+      create    db/migrate/20200923125810_add_active_attribute_to_students.rb
